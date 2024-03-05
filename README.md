@@ -1,16 +1,14 @@
-### Hi there 👋
+![C.S. Student at George Mason](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Mustafa
+#### C.S. Student at George Mason
 
-<!--
-**MustafaIK44/MustafaIK44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mustafa and I am a passionate CS student. I am originally from Turkey but have lived in the US for so long... I really enjoy learning new languages and improving my skills as much as possible. So far, my favorite language is Python and Java. 
 
-Here are some ideas to get you started:
+#### Skills and Experience:
+* 🖥️ Java
+* 🐍 Python
+* 🎮 C / C++
+* 🏗️ Under Construction!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Works and Projects
+* 🏗️ Under Construction!!
