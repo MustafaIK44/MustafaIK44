@@ -1,4 +1,4 @@
-![C.S. Student at George Mason](https://github.com/MustafaIK44/MustafaIK44/blob/main/github-header-image.png)
+![C.S. Student at George Mason](https://github.com/MustafaIK44/MustafaIK44/blob/main/github-header-image%20(1).png)
 
 ### Hi there 👋, I'm Mustafa
 #### C.S. Student at George Mason
